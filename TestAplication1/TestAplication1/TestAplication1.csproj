@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ADDMoises.cs" />
+    <Compile Include="ClaseJorge.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
